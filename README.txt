@@ -1,4 +1,4 @@
-The following commands clone frontik and make two directories in the current directory: frontik_without_tests and frontik_only_tests
+# The following commands clone frontik and make two directories in the current directory: frontik_without_tests and frontik_only_tests
 
 # frontik_without_tests
 git clone https://github.com/hhru/frontik ./frontik_without_tests
